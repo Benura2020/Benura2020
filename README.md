@@ -4,7 +4,7 @@
 
 <div>
   
-# 🎓 Pursuing a Bachelor's degree in Artificial Intelligence and Data Science<br>🤖 Machine Learning Enthusiast<br>
+ 🎓 Pursuing a Bachelor's degree in Artificial Intelligence and Data Science<br>🤖 Machine Learning Enthusiast<br>
 
 
 ## 🌐 Socials:
