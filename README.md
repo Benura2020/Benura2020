@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+Guys+!+!+!;I+am+BENURA+WICKRAMANAYAKE)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🎓 Pursuing a Bachelor's degree in Artificial Intelligence and Data Science<br>🤖 Machine Learning Enthusiast<br>
+# 🎓 Pursuing a Bachelor's degree in Artificial Intelligence and Data Science<br>🤖 Machine Learning Enthusiast<br>
 
 
 ## 🌐 Socials:
